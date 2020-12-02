@@ -32,6 +32,9 @@ $routes->setAutoRoute(true);
 // route since we don't have to scan directories.
 $routes->get('/', 'Home::index');
 
+# Setting Routes
+$routes->get('/settings', 'Setting::index');
+
 /**
  * --------------------------------------------------------------------
  * Additional Routing
