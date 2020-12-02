@@ -35,6 +35,9 @@ $routes->get('/', 'Home::index');
 # Setting Routes
 $routes->get('/settings', 'Setting::index');
 
+# Music routes
+$routes->get('/music', 'Music::index');
+
 /**
  * --------------------------------------------------------------------
  * Additional Routing
