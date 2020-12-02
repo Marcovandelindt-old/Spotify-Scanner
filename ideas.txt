@@ -1,0 +1,22 @@
+Data to save / tables to create
+
+- Possibilty to save tracks
+- Possitibility to save artists
+- Possitibilty to save albums
+- Possitibilty to save genres
+- Possibility to save podcasts [Later]
+- Possibility to save playlists
+
+Tables:
+
+tracks
+artists
+albums
+genres
+playlists
+tracks_artists
+albums_artists
+albums_genres
+
+
+
